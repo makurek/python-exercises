@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "first_name": "test1a",
+        "last_name": "test1b",
+        "age": "35",
+        "hobbies": [
+            {
+                "name": "running"
+            },
+            {
+                "name": "sky diving"
+            },
+            {
+                "name": "singing"
+            }
+        ],
+        "children": [
+            {
+                "firstName": "Alice",
+                "age": "6"
+            },
+            {
+                "firstName": "Bob",
+                "age": "8"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "first_name": "test2a",
+        "last_name": "test2b",
+        "age": "25",
+        "hobbies": [
+            {
+                "name": "chess"
+            },
+            {
+                "name": "cycling"
+            },
+            {
+                "name": "singing"
+            }
+        ],
+        "children": [
+            {
+                "firstName": "Alice",
+                "age": "1"
+            }
+        ]
+    }
+]

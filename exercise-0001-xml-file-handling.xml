@@ -1,0 +1,23 @@
+<register>
+    <person id="1" first_name="test1a" last_name="test1b" age="35">
+        <hobbies>
+            <hobby name="running"/>
+            <hobby name="sky diving"/>
+            <hobby name="singing"/>
+        </hobbies>
+        <children>
+            <child firstName="Alice" age="6"/>
+            <child firstName="Bob" age="8"/>
+        </children>
+    </person>
+    <person id="2" first_name="test2a" last_name="test2b" age="25">
+        <hobbies>
+            <hobby name="chess"/>
+            <hobby name="cycling"/>
+            <hobby name="singing"/>
+        </hobbies>
+        <children>
+            <child firstName="Alice" age="1"/>
+        </children>
+    </person>
+</register>
